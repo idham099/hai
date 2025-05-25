@@ -5,7 +5,7 @@ Lifelong Learner, currently working in IT.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue/Text%20Editor-Katalon%20Studio%20Code-green?&logo=katalon%20studio%20code&logoColor=green" />
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
