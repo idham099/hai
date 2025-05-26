@@ -1,15 +1,11 @@
 # <summary><strong>Hi there :wave: , I'm Ainul Idham!</strong></summary>
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue/Katalon%20Studio%20Code-green?&logo=katalon%20studio%20code&logoColor=green" />
-</p>
-
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Quality Assurance . </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:ainul.idham.sttpln@gmail.com">Email me!</a>  </br>
     - :game_die: Writing are part of me. </br>
+     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue/Katalon%20Studio%20Code-green?&logo=katalon%20studio%20code&logoColor=green" />
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
