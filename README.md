@@ -8,8 +8,7 @@
     </br>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue/Katalon%20Studio%20Code-green?&logo=katalon%20studio%20code&logoColor=green" />
 <p>
- 
-### <summary><strong>Let's connect!</strong></summary>
+### <strong>Let's connect!</strong>
 <a href="https://www.instagram.com/ainul.idham/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
