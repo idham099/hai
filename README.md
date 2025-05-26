@@ -1,5 +1,5 @@
-# <summary><strong>Hi there :wave: , I'm Ainul Idham!</strong></summary>
-### <summary><strong>Yosh!</strong></summary>
+# <strong>Hi there :wave: , I'm Ainul Idham!</strong>
+### <strong>Yosh!</strong>
 <p>
     - :keyboard: I’m currently learning Quality Assurance . </br>
     - :speech_balloon: Ask me about anything.</br>
