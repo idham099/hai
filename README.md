@@ -9,7 +9,6 @@
     - :keyboard: I’m currently learning Quality Assurance . </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:ainul.idham.sttpln@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
     - :game_die: Writing are part of me. </br>
 <p>
  
